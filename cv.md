@@ -27,3 +27,8 @@ var isAnagram = function(test, original) {
   return test.toUpperCase().split('').sort().join('')=== original.toUpperCase().split('').sort().join('')
 };
 ```
+## Education and experience
+At the moment I am a *1th* year student of the **Belarusian State University of Informatics and Radioelectronics**, Faculty of **Computer-Aided Design**.
+
+## English
+B1(Intermediate)
